@@ -16,6 +16,10 @@ pip install django django-cors-headers
 python manage.py migrate
 python manage.py createsuperuser
 python manage.py runserver
+http://127.0.0.1:8000/
+http://127.0.0.1:8000/admin
+http://127.0.0.1:8000/admin/series
+
 
 Como rodar o frontend (React):
 cd frontend
